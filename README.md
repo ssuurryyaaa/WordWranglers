@@ -46,7 +46,7 @@ pre-commit install
 ```
 
 Select the interpreter with path <b>./.venv/bin/python</b> in VSCode.
-<br>![Alt text](/interpreter.png?raw=true "Title").
+<br>![Alt text](/interpreter.png?raw=true "Title")
 
 Do a test run (after installing matplotlib) to check if the environment has been setup correctly
 
